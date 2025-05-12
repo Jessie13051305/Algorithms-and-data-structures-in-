@@ -920,7 +920,7 @@ class User():
     
 class Book():
     """Create the books information from create a API key in google console (google books)"""
-    API_KEY = 'AIzaSyBiN18C6-MXQQVxgDEuI0-QRQQRPeHL668'
+    API_KEY = 'AIzaSyBiN18C6-MXQQVxgDEuI0-QRQQRPeHL***'
     URL = 'https://www.googleapis.com/books/v1/volumes'
     
 
